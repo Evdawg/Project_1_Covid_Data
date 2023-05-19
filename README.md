@@ -7,7 +7,7 @@ Group 7. Data Analytics Project 1
 	CDC - "COVID-19 Vaccinations in the United States, Jurisdiction":
 	https://data.cdc.gov/Vaccinations/COVID-19-Vaccinations-in-the-United-States-Jurisdi/unsk-b7fc
 
-	###Timeframe: 
+	Timeframe: 
 		post March 11, 2021 – end of 2022
 
 
